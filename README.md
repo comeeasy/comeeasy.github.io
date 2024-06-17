@@ -19,7 +19,9 @@
 2. DALS
 3. 코스메테틱
 4. ALLEye
-5. 졸프
+5. 졸프 ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
+6. 스도쿠 ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
+7. 생성형 AI 활용법 튜토리얼 영상 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
 
 ### Publications
 1. [Kim, J., Yang, H., & Min, K. (2024). DALS: Diffusion-Based Artistic Landscape Sketch. Mathematics, 12(2), 238.](https://www.mdpi.com/2227-7390/12/2/238)
@@ -28,7 +30,9 @@
 4. [Junho, K., Heekyung, Y., & Kyungha, M. (2023). Urban Landscape Game Scene Sketch Generation Framework with Stable Diffusion. 한국컴퓨터게임학회 논문지, 36(4), 101-105.](https://db.koreascholar.com/Article/Detail/430365)
 
 ### Awards
-1. [] 프로메테우스 X StartUp Hakcathon 
+1. [AIFactory 상] 프로메테우스 X StartUp Hakcathon - (코스메테틱) ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
+2. 수뭉컵 - 야만적인 힘 ([URL](https://github.com/soomoongcup/soomoongcup-2024)) (비공식 1위) 
+3. Github 경진대회 대상 ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
 
 ### Scholarship
 1. [2017/2] 학과차석 (Second Top Student in the Department)
