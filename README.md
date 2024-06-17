@@ -24,4 +24,4 @@
 5. [2021/2] SW인재 (SW Talent)
 6. [2022/1] 면학B (Academic Excellence Scholarship)
 7. [2022/2] 면학B (Academic Excellence Scholarship)
-외 (National ScholarShip 포함) 22회 수혜 받아 총 *45,637,885원*을 받음.
+- 그 외 (National ScholarShip 포함) 22회 수혜포함.<br> 총 45,637,885원.
