@@ -9,18 +9,22 @@
 
 ### Activities
 1. [학부 연구생🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
-   - Research on protecting adversarial attack in image domain. [VOneNet]
+   - Research on protecting adversarial attack in image domain. [code](https://github.com/comeeasy/R320_VOneNet)
    - Project implementing ADAS (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원
 3. [학석사 과정🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
    - Conducted variaous experiments on rotating artistic portraits using GAN-based model. [publication 3.]
    - Conducted variaous experiments on synthesizing portrait sketches using Diffusion model. [publication 2.]
-   - Research on synthesizing artistic landscape sketch using 원중근경 (foreground, midground, far) map. [publication 1.]
+   - Research on synthesizing artistic landscape sketch using 원중근경 (foreground, midground, far) map. [publication 1.] [code](https://github.com/comeeasy/DALS) 
    - Research on synthesizing game scene sketches using Stable Diffusion. [publication 4.] 
 5. [동아리👫] 이니로 동아리
+   - Study on Algorithm [github](https://github.com/comeeasy/Algorithm-study/tree/main/joono)
    - Development Project of a Household Account Book Web Service Utilizing the Open Banking API. [github](https://github.com/auddus16/this_much?tab=readme-ov-file)
-   - 
+   - Study on advanced python (Design pattern) [github](https://github.com/jiminAn/Python_Clean_Code/tree/main/joono)
 7. [동아리👫] 앞구르기 2024-02 ~ Now
-8. [스터디📚] 딥러닝 스터디 2023-09 ~ Now
+   - Implementation [python API](https://github.com/roll4ward/SmartFarmDataMartAPI) following API documentation of [스마트팜데이터마트](https://data.smartfarmkorea.net/openApi/openApiUseInfo.do?menuId=M060501)
+   - Develop anomaly sensor detector system. (proceeding) [github](https://github.com/roll4ward/AnomalyEnvDetector) 
+9. [스터디📚] 딥러닝 스터디 2023-09 ~ Now
+    - Study "Understanding Deep Learning - Simon J.D. Prince". [notion](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4)
 
 ### Projects
 1. ADAS
