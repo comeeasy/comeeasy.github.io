@@ -31,6 +31,9 @@
 2. [졸업 프로젝트] **Line tracer with FCA**(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
 3. **Sudoku Solver** through a _picture_ ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
 4. 학생들을 위한 **Stable Diffusion and LoRA 활용법 튜토리얼** 제작 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
+5. [f1score 0.997 달성] [2023 구강이미지 합성데이터 헬스케어 AI 경진대회](https://github.com/bab-korea/healthcare-ai-contest) [code](https://github.com/comeeasy/healthcare-ai-contest)
+6. [연습 22위] [도배하자 분류 경진대회](https://dacon.io/competitions/official/236082/leaderboard) [code](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions)
+7. 
 
 
 ### Publications
