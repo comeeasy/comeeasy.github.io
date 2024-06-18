@@ -20,7 +20,7 @@
    - Conducted variaous experiments on **synthesizing portrait sketches** using Diffusion model. [publication 2.]
    - Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map. [publication 1.] [code](https://github.com/comeeasy/DALS) 
    - Research on **synthesizing game scene sketches** using Stable Diffusion. [publication 4.]
-   - Refactor legacy code of lab [code](https://github.com/comeeasy/CGVM_FDoG_opencv)
+   - **Refactor legacy code** of lab [code](https://github.com/comeeasy/CGVM_FDoG_opencv)
         - Removing dependency on `glut` which is deprecated.
         - Improvement processing performance using pthread.
         - Removing dependency on VisualStudio2012 and rebuild using CMake for versatility.
@@ -28,7 +28,7 @@
    - Study on **Algorithm** [github](https://github.com/comeeasy/Algorithm-study/tree/main/joono)
    - Development Household Account Book Web Service Utilizing the Open Banking API. [github](https://github.com/auddus16/this_much?tab=readme-ov-file)
    - Study on **advanced python** (Design pattern) [github](https://github.com/jiminAn/Python_Clean_Code/tree/main/joono)
-   - Development on Bitcoin Auto Trading system [code](https://github.com/comeeasy/Coin_Auto_Trading) 
+   - Development on **Bitcoin Auto Trading system** [code](https://github.com/comeeasy/Coin_Auto_Trading) 
 7. [Union club👫] 앞구르기 2024-02 ~ Now
    - Implementation **[python API](https://github.com/roll4ward/SmartFarmDataMartAPI) following API documentation** of [스마트팜데이터마트](https://data.smartfarmkorea.net/openApi/openApiUseInfo.do?menuId=M060501)
    - Develop **anomaly sensor detector** system. (proceeding) [github](https://github.com/roll4ward/AnomalyEnvDetector) 
@@ -40,13 +40,13 @@
 1. [AIFactory상🏆] 2023 프로메테우스 X StartUp Hakcathon - **Virtual makeup service**(코스메테틱)  ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
 2. [대상🏆] Github 경진대회 - **Sketch photo2seq-pytorch** ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
 3. [졸업 프로젝트] **Only-vision Line Tracer with FCA**(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
-4. [MicroProcessor 기말과제] Implementation context switching on ARM-based [FRDM-k64f board](https://www.nxp.com/design/design-center/development-boards-and-designs/general-purpose-mcus/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) [code](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching)
-5. [Computer Vision 프로젝트] Simple ADAS without deep learning [code](https://github.com/comeeasy/SimpleADAS) [paper](https://docs.google.com/document/d/17m_geLijXTVO3QhzpMjocZp3wsiSaXPD/edit?usp=share_link&ouid=107778625302344105849&rtpof=true&sd=true) 
-6. AI-factory [스마트축사 데이터 활용 대회](https://aifactory.space/task/1952/overview) [posting](https://joono.notion.site/6349cb8aa6df4953b8210e3147519991?pvs=4)
+4. [MicroProcessor 기말과제] Implementation **context switching on ARM-based** [FRDM-k64f board](https://www.nxp.com/design/design-center/development-boards-and-designs/general-purpose-mcus/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) [code](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching)
+5. [Computer Vision 프로젝트] Simple **ADAS without deep learning** [code](https://github.com/comeeasy/SimpleADAS) [paper](https://docs.google.com/document/d/17m_geLijXTVO3QhzpMjocZp3wsiSaXPD/edit?usp=share_link&ouid=107778625302344105849&rtpof=true&sd=true) 
+6. [AI-factory 6위] [스마트축사 데이터 활용 대회](https://aifactory.space/task/1952/overview) [posting](https://joono.notion.site/6349cb8aa6df4953b8210e3147519991?pvs=4)
 7. **Sudoku Solver** through a _picture_ ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
-8. 학생들을 위한 **Stable Diffusion and LoRA 활용법 튜토리얼** 제작 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
-9. [f1score 0.997 달성] [2023 구강이미지 합성데이터 헬스케어 AI 경진대회](https://github.com/bab-korea/healthcare-ai-contest) [code](https://github.com/comeeasy/healthcare-ai-contest)
-10. [연습 22위] [도배하자 분류 경진대회](https://dacon.io/competitions/official/236082/leaderboard) [code](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions)
+8. 학부생들을 위한 **Stable Diffusion and LoRA 활용법 튜토리얼** 제작 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
+9. [f1score 0.997 달성] [2023 구강이미지 합성데이터 **헬스케어 AI 경진대회**](https://github.com/bab-korea/healthcare-ai-contest) [code](https://github.com/comeeasy/healthcare-ai-contest)
+10. [연습 22위] [**도배하자 분류 경진대회**](https://dacon.io/competitions/official/236082/leaderboard) [code](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions)
 
 ### Publications
 1. [Kim, J., Yang, H., & Min, K. (2024). DALS: Diffusion-Based Artistic Landscape Sketch. Mathematics, 12(2), 238.](https://www.mdpi.com/2227-7390/12/2/238)
