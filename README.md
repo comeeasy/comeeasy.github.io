@@ -1,5 +1,5 @@
 # HandyMan "잡부"
-- 이것저것 하고 싶은 것을 해보느라 전문성이 없습니다. `Python`은 그러기 딱 좋은 언어죠..
+- 💬이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> `Python`은 그러기 딱 좋은 언어죠..
 
 ### Keywords
 `Python`, `Linux`, `Computer vision`, `Embedded system`, `Deep learning`, `Image generative AI`
