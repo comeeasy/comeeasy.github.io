@@ -19,6 +19,7 @@
    - Study on **Algorithm** [github](https://github.com/comeeasy/Algorithm-study/tree/main/joono)
    - Development Household Account Book Web Service Utilizing the Open Banking API. [github](https://github.com/auddus16/this_much?tab=readme-ov-file)
    - Study on **advanced python** (Design pattern) [github](https://github.com/jiminAn/Python_Clean_Code/tree/main/joono)
+   - Development on Bitcoin Auto Trading system [code](https://github.com/comeeasy/Coin_Auto_Trading) 
 7. [동아리👫] 앞구르기 2024-02 ~ Now
    - Implementation **[python API](https://github.com/roll4ward/SmartFarmDataMartAPI) following API documentation** of [스마트팜데이터마트](https://data.smartfarmkorea.net/openApi/openApiUseInfo.do?menuId=M060501)
    - Develop **anomaly sensor detector** system. (proceeding) [github](https://github.com/roll4ward/AnomalyEnvDetector) 
