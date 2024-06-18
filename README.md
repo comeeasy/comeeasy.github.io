@@ -3,6 +3,7 @@
 - 이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> Python은 그러기 딱 좋은 언어이죠..
 
 ### Education
+
 | Degree           | Major             | University             | Graduation Date    |
 |------------------|-------------------|------------------------|--------------------|
 | B.S.             | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
