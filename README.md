@@ -30,8 +30,9 @@
 7. [동아리👫] 앞구르기 2024-02 ~ Now
    - Implementation **[python API](https://github.com/roll4ward/SmartFarmDataMartAPI) following API documentation** of [스마트팜데이터마트](https://data.smartfarmkorea.net/openApi/openApiUseInfo.do?menuId=M060501)
    - Develop **anomaly sensor detector** system. (proceeding) [github](https://github.com/roll4ward/AnomalyEnvDetector) 
-9. [스터디📚] 딥러닝 스터디 2023-09 ~ Now
-    - Study **"Understanding Deep Learning - Simon J.D. Prince"**. [notion](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4)
+9. [스터디📚] 
+    - **딥러닝 스터디** Study **"Understanding Deep Learning - Simon J.D. Prince"**. [notion](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4) [2023-09 ~ Now]
+    - **튜터링** Tutoring Python, Linux & etc., [materials](https://drive.google.com/drive/folders/1DhdZAR9MAiVLo9imlOX5NGksLPGZW36Z?usp=sharing) 
 
 ### Projects
 1. [AIFactory상🏆] 2023 프로메테우스 X StartUp Hakcathon - **Virtual makeup service**(코스메테틱)  ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
@@ -50,11 +51,6 @@
 2. [Kim, H., Kim, J., & Yang, H. (2023). Portrait Sketch Generative Model for Misaligned Photo-to-Sketch Dataset. Mathematics, 11(17), 3761.](https://www.mdpi.com/2227-7390/11/17/3761)
 3. [Kim, H., Kim, J., & Yang, H. (2022). A GAN-based face rotation for artistic portraits. Mathematics, 10(20), 3860](https://www.mdpi.com/2227-7390/10/20/3860)
 4. [Junho, K., Heekyung, Y., & Kyungha, M. (2023). Urban Landscape Game Scene Sketch Generation Framework with Stable Diffusion. 한국컴퓨터게임학회 논문지, 36(4), 101-105.](https://db.koreascholar.com/Article/Detail/430365)
-
-### Awards
-1. [AIFactory 상] 프로메테우스 X StartUp Hakcathon - (코스메테틱) ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
-2. 수뭉컵 - 야만적인 힘 ([URL](https://github.com/soomoongcup/soomoongcup-2024)) (비공식 1위) 
-3. 
 
 ### Scholarship
 1. [2017/2] 학과차석 (Second Top Student in the Department)
