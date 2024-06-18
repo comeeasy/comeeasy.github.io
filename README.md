@@ -36,7 +36,7 @@
 ### Projects
 1. [AIFactory상🏆] 2023 프로메테우스 X StartUp Hakcathon - **Virtual makeup service**(코스메테틱)  ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
 2. [대상🏆] Github 경진대회 - **Sketch photo2seq-pytorch** ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
-3. [졸업 프로젝트] **Line tracer with FCA**(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
+3. [졸업 프로젝트] **Only-vision Line Tracer with FCA**(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
 4. [MicroProcessor 기말과제] Implementation context switching on ARM-based [FRDM-k64f board](https://www.nxp.com/design/design-center/development-boards-and-designs/general-purpose-mcus/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) [code](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching)
 5. AI-factory [스마트축사 데이터 활용 대회](https://aifactory.space/task/1952/overview) [posting](https://joono.notion.site/6349cb8aa6df4953b8210e3147519991?pvs=4)
 6. **Sudoku Solver** through a _picture_ ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
