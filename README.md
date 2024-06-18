@@ -17,7 +17,11 @@
    - Conducted variaous experiments on **rotating artistic portraits** using GAN-based model. [publication 3.]
    - Conducted variaous experiments on **synthesizing portrait sketches** using Diffusion model. [publication 2.]
    - Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map. [publication 1.] [code](https://github.com/comeeasy/DALS) 
-   - Research on **synthesizing game scene sketches** using Stable Diffusion. [publication 4.] 
+   - Research on **synthesizing game scene sketches** using Stable Diffusion. [publication 4.]
+   - Refactor legacy code of lab [code](https://github.com/comeeasy/CGVM_FDoG_opencv)
+        - Removing dependency on `glut` which is deprecated.
+        - Improvement processing performance using pthread.
+        - Removing dependency on VisualStudio2012 and rebuild using CMake for versatility.
 5. [동아리👫] 이니로 동아리
    - Study on **Algorithm** [github](https://github.com/comeeasy/Algorithm-study/tree/main/joono)
    - Development Household Account Book Web Service Utilizing the Open Banking API. [github](https://github.com/auddus16/this_much?tab=readme-ov-file)
