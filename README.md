@@ -8,8 +8,8 @@
 
 ### Activities
 1. [학부 연구생🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
-   - Research on protecting adversarial attack in image domain. [code](https://github.com/comeeasy/R320_VOneNet)
-   - Project implementing ADAS (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원
+   - Research on *protecting adversarial attack* in image domain. [code](https://github.com/comeeasy/R320_VOneNet)
+   - Project *implementing ADAS* (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원
 3. [학석사 과정🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
    - Conducted variaous experiments on rotating artistic portraits using GAN-based model. [publication 3.]
    - Conducted variaous experiments on synthesizing portrait sketches using Diffusion model. [publication 2.]
@@ -30,7 +30,8 @@
 2. [대상🏆] Github 경진대회 ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
 2. [졸업 프로젝트] Line tracer with FCA(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
 3. Sudoku Solver through a picture ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
-4. Stable Diffusion and LoRA 활용법 튜토리얼 영상 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
+4. 학생들을 위한 Stable Diffusion and LoRA 활용법 튜토리얼 제작 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
+
 
 ### Publications
 1. [Kim, J., Yang, H., & Min, K. (2024). DALS: Diffusion-Based Artistic Landscape Sketch. Mathematics, 12(2), 238.](https://www.mdpi.com/2227-7390/12/2/238)
