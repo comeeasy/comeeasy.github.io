@@ -3,8 +3,8 @@
 - 이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> Python은 그러기 딱 좋은 언어이죠..
 
 ### Education
-- B.S., In Electronics | SangMyung(Seoul) Univ. (February 2023)
-- M.S., In Computer Science | SangMyung(Seoul) Univ. (February 2025)
+B.S., Electronics | SangMyung(Seoul) Univ. (February 2023)
+M.S., Computer Science | SangMyung(Seoul) Univ. (February 2025)
 
 ### Activities
 1. [학부 연구생🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
