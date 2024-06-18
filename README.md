@@ -1,7 +1,6 @@
 # HandyMan
 - "잡부"
 - 이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> Python은 그러기 딱 좋은 언어이죠..
-- 저는 Python 원툴입니다.
 
 ### Education
 - B.S., In Electronics | SangMyung(Seoul) Univ. (February 2023)
@@ -27,13 +26,10 @@
     - Study "Understanding Deep Learning - Simon J.D. Prince". [notion](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4)
 
 ### Projects
-1. ADAS
-2. DALS
-3. 코스메테틱
-4. ALLEye
-5. 졸프 ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
-6. 스도쿠 ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
-7. 생성형 AI 활용법 튜토리얼 영상 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
+1. ALLEye
+2. 졸프 ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
+3. 스도쿠 ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
+4. 생성형 AI 활용법 튜토리얼 영상 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
 
 ### Publications
 1. [Kim, J., Yang, H., & Min, K. (2024). DALS: Diffusion-Based Artistic Landscape Sketch. Mathematics, 12(2), 238.](https://www.mdpi.com/2227-7390/12/2/238)
