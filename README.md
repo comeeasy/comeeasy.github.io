@@ -8,11 +8,13 @@
 - M.S., In Computer Science | SangMyung(Seoul) Univ. (February 2025)
 
 ### Activities
-1. [학부 연구생] Creative Contents Lab (SangMyung Univ.) 2021-02 ~ 2023-02
-2. [학석사 과정] Computer Graphics and Visual Media Lab (CGVM) 2023-07 ~ Now
-3. [동아리] 이니로 동아리
-4. [동아리] 앞구르기 2024-02 ~ Now
-5. [스터디] 딥러닝 스터디 2023-09 ~ Now
+1. [학부 연구생🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2023-02
+   - Research on protecting adversarial attack in image domain. [VOneNet]
+   - Project implementing ADAS (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원
+3. [학석사 과정🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2023-07 ~ Now
+4. [동아리👫] 이니로 동아리
+5. [동아리👫] 앞구르기 2024-02 ~ Now
+6. [스터디📚] 딥러닝 스터디 2023-09 ~ Now
 
 ### Projects
 1. ADAS
