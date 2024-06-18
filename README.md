@@ -4,7 +4,7 @@
 
 ### Education
 
-| Degree           | Major             | University             | Graduation Date    |
+| Degree           | Major             | University             | Grad. date    |
 | ---------------- |-----------------  | ---------------------- | ------------------ |
 | B.S.             | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
 | M.S.             | Computer Science  | SangMyung (Seoul) Univ.| February 2025      |
