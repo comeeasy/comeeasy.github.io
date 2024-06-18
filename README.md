@@ -26,8 +26,8 @@
     - Study "Understanding Deep Learning - Simon J.D. Prince". [notion](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4)
 
 ### Projects
-1. [AIFactory 상] 2023 프로메테우스 X StartUp Hakcathon - (코스메테틱) ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
-2. [대상 수상] Github 경진대회 ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
+1. [AIFactory상🏆] 2023 프로메테우스 X StartUp Hakcathon - (코스메테틱) ([news letter](https://www.newswire.co.kr/newsRead.php?no=962341))
+2. [대상🏆] Github 경진대회 ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
 2. [졸업 프로젝트] Line tracer with FCA(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
 3. Sudoku Solver through a picture ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
 4. Stable Diffusion and LoRA 활용법 튜토리얼 영상 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
