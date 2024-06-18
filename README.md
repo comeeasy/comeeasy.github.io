@@ -17,8 +17,10 @@
    - Research on synthesizing artistic landscape sketch using 원중근경 (foreground, midground, far) map. [publication 1.]
    - Research on synthesizing game scene sketches using Stable Diffusion. [publication 4.] 
 5. [동아리👫] 이니로 동아리
-6. [동아리👫] 앞구르기 2024-02 ~ Now
-7. [스터디📚] 딥러닝 스터디 2023-09 ~ Now
+   - Development Project of a Household Account Book Web Service Utilizing the Open Banking API. [github](https://github.com/auddus16/this_much?tab=readme-ov-file)
+   - 
+7. [동아리👫] 앞구르기 2024-02 ~ Now
+8. [스터디📚] 딥러닝 스터디 2023-09 ~ Now
 
 ### Projects
 1. ADAS
@@ -48,4 +50,4 @@
 5. [2021/2] SW인재 (SW Talent)
 6. [2022/1] 면학B (Academic Excellence Scholarship)
 7. [2022/2] 면학B (Academic Excellence Scholarship)
-- 이 외 (National ScholarShip 포함) 22회 수혜.
+- 이 외 (National Scholarship 포함) 22회 수혜.
