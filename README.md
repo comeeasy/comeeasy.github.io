@@ -8,7 +8,7 @@
 
 | Degree           | Major             | University             | Grad. date    |
 | ---------------- |-----------------  | ---------------------- | ------------------ |
-| B.E.             | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
+| B.E. (4.15/4.5)  | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
 | M.S.             | Computer Science  | SangMyung (Seoul) Univ.| February 2025      |
 
 ### Activities
