@@ -38,11 +38,12 @@
 2. [대상🏆] Github 경진대회 - **Sketch photo2seq-pytorch** ([Youtube](https://www.youtube.com/watch?v=gfU1dlzh2VE))
 3. [졸업 프로젝트] **Line tracer with FCA**(Forward Collision-Avoidance Assist) ([Youtube](https://www.youtube.com/watch?v=elfMAMhiwws))
 4. [MicroProcessor 기말과제] Implementation context switching on ARM-based [FRDM-k64f board](https://www.nxp.com/design/design-center/development-boards-and-designs/general-purpose-mcus/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) [code](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching)
-5. **Sudoku Solver** through a _picture_ ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
-6. 학생들을 위한 **Stable Diffusion and LoRA 활용법 튜토리얼** 제작 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
-7. [f1score 0.997 달성] [2023 구강이미지 합성데이터 헬스케어 AI 경진대회](https://github.com/bab-korea/healthcare-ai-contest) [code](https://github.com/comeeasy/healthcare-ai-contest)
-8. [연습 22위] [도배하자 분류 경진대회](https://dacon.io/competitions/official/236082/leaderboard) [code](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions)
-9. 트위터 기반 실시간 재난 알림 시스템 [code](https://github.com/jiminAn/ML_Project)
+5. AI-factory [스마트축사 데이터 활용 대회](https://aifactory.space/task/1952/overview) [posting](https://joono.notion.site/6349cb8aa6df4953b8210e3147519991?pvs=4)
+6. **Sudoku Solver** through a _picture_ ([Youtube](https://www.youtube.com/watch?v=v5IgQAuJ-jY))
+7. 학생들을 위한 **Stable Diffusion and LoRA 활용법 튜토리얼** 제작 ([Youtube](https://www.youtube.com/watch?v=ics_03c3VEA))
+8. [f1score 0.997 달성] [2023 구강이미지 합성데이터 헬스케어 AI 경진대회](https://github.com/bab-korea/healthcare-ai-contest) [code](https://github.com/comeeasy/healthcare-ai-contest)
+9. [연습 22위] [도배하자 분류 경진대회](https://dacon.io/competitions/official/236082/leaderboard) [code](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions)
+10. 트위터 기반 실시간 재난 알림 시스템 [code](https://github.com/jiminAn/ML_Project)
 
 
 ### Publications
