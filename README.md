@@ -1,19 +1,21 @@
-# HandyMan
-- "잡부"
-- 이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> Python은 그러기 딱 좋은 언어이죠..
+# HandyMan "잡부"
+- 이것저것 하고 싶은 것을 해보느라 전문성이 없습니다. `Python`은 그러기 딱 좋은 언어죠..
+
+### Keywords
+`Python`, `Linux`, `Computer vision`, `Embedded system`, `Deep learning`, `Image generative AI`
 
 ### Education
 
 | Degree           | Major             | University             | Grad. date    |
 | ---------------- |-----------------  | ---------------------- | ------------------ |
-| B.S.             | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
+| B.E.             | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
 | M.S.             | Computer Science  | SangMyung (Seoul) Univ.| February 2025      |
 
 ### Activities
-1. [학부 연구생🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
+1. [Undergraduate research assistant🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
    - Research on **protecting adversarial attack** in image domain. [code](https://github.com/comeeasy/R320_VOneNet)
    - Project **implementing ADAS** (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원
-3. [학석사 과정🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
+3. [M.S researcher🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
    - Conducted variaous experiments on **rotating artistic portraits** using GAN-based model. [publication 3.]
    - Conducted variaous experiments on **synthesizing portrait sketches** using Diffusion model. [publication 2.]
    - Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map. [publication 1.] [code](https://github.com/comeeasy/DALS) 
@@ -22,15 +24,15 @@
         - Removing dependency on `glut` which is deprecated.
         - Improvement processing performance using pthread.
         - Removing dependency on VisualStudio2012 and rebuild using CMake for versatility.
-5. [동아리👫] 이니로 동아리
+5. [Study club👫] 이니로 동아리
    - Study on **Algorithm** [github](https://github.com/comeeasy/Algorithm-study/tree/main/joono)
    - Development Household Account Book Web Service Utilizing the Open Banking API. [github](https://github.com/auddus16/this_much?tab=readme-ov-file)
    - Study on **advanced python** (Design pattern) [github](https://github.com/jiminAn/Python_Clean_Code/tree/main/joono)
    - Development on Bitcoin Auto Trading system [code](https://github.com/comeeasy/Coin_Auto_Trading) 
-7. [동아리👫] 앞구르기 2024-02 ~ Now
+7. [Union club👫] 앞구르기 2024-02 ~ Now
    - Implementation **[python API](https://github.com/roll4ward/SmartFarmDataMartAPI) following API documentation** of [스마트팜데이터마트](https://data.smartfarmkorea.net/openApi/openApiUseInfo.do?menuId=M060501)
    - Develop **anomaly sensor detector** system. (proceeding) [github](https://github.com/roll4ward/AnomalyEnvDetector) 
-9. [스터디📚] 
+9. [Study📚] 
     - **딥러닝 스터디** Study **"Understanding Deep Learning - Simon J.D. Prince"**. [notion](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4) [2023-09 ~ Now]
     - **튜터링** Tutoring Python, Linux & etc., [materials](https://drive.google.com/drive/folders/1DhdZAR9MAiVLo9imlOX5NGksLPGZW36Z?usp=sharing) 
 
