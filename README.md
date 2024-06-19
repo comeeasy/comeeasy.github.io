@@ -18,7 +18,7 @@
 3. [M.S researcher🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
    - Conducted variaous experiments on **rotating artistic portraits** using GAN-based model. [publication 3.]
    - Conducted variaous experiments on **synthesizing portrait sketches** using Diffusion model. [publication 2.]
-   - [</>](https://github.com/comeeasy/DALS) Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map. [publication 1.]
+   - [⭐</>⭐](https://github.com/comeeasy/DALS) Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map. [publication 1.]
    - Research on **synthesizing game scene sketches** using Stable Diffusion. [publication 4.]
    - [</>](https://github.com/comeeasy/CGVM_FDoG_opencv) **Refactor legacy code** of lab 
         - Removing dependency on `glut` which is deprecated.
@@ -41,7 +41,7 @@
 1. [📰](https://www.newswire.co.kr/newsRead.php?no=962341) [AIFactory상🏆] 2023 프로메테우스 X StartUp Hakcathon - **Virtual makeup service**(코스메테틱)  
 2. ([🎥](https://www.youtube.com/watch?v=gfU1dlzh2VE)) [대상🏆] Github 경진대회 - **Sketch photo2seq-pytorch** 
 3. ([🎥](https://www.youtube.com/watch?v=elfMAMhiwws)) [졸업 프로젝트] **Only-vision Line Tracer with FCA**(Forward Collision-Avoidance Assist) 
-4. [</>](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching) [MicroProcessor 기말과제] Implementation **context switching on ARM-based** [FRDM-k64f board](https://www.nxp.com/design/design-center/development-boards-and-designs/general-purpose-mcus/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) 
+4. [⭐</>⭐](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching) [MicroProcessor 기말과제] Implementation **context switching on ARM-based** [FRDM-k64f board](https://www.nxp.com/design/design-center/development-boards-and-designs/general-purpose-mcus/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) 
 5. [📝](https://docs.google.com/document/d/17m_geLijXTVO3QhzpMjocZp3wsiSaXPD/edit?usp=share_link&ouid=107778625302344105849&rtpof=true&sd=true) [Computer Vision 프로젝트] Simple **ADAS without deep learning** [</>](https://github.com/comeeasy/SimpleADAS)  
 6. [📝](https://joono.notion.site/6349cb8aa6df4953b8210e3147519991?pvs=4) [AI-factory 6위] [스마트축사 데이터 활용 대회](https://aifactory.space/task/1952/overview) 
 7. [🎥](https://www.youtube.com/watch?v=v5IgQAuJ-jY) **Sudoku Solver** through a _picture_ 
