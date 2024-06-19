@@ -18,7 +18,7 @@
 3. [M.S researcher🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
    - Conducted variaous experiments on **rotating artistic portraits** using GAN-based model. [publication 3.]
    - Conducted variaous experiments on **synthesizing portrait sketches** using Diffusion model. [publication 2.]
-   - [⭐</>⭐](https://github.com/comeeasy/DALS) <U>Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map.</U> [publication 1.]
+   - [⭐</>⭐](https://github.com/comeeasy/DALS) <ins>Research on **synthesizing artistic landscape sketch using 원중근경** (foreground, midground, far) map.</ins> [publication 1.]
    - Research on **synthesizing game scene sketches** using Stable Diffusion. [publication 4.]
    - [</>](https://github.com/comeeasy/CGVM_FDoG_opencv) **Refactor legacy code** of lab 
         - Removing dependency on `glut` which is deprecated.
