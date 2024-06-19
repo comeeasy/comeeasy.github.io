@@ -47,7 +47,7 @@
 7. [🎥](https://www.youtube.com/watch?v=v5IgQAuJ-jY) **Sudoku Solver** through a _picture_ 
 8. [🎥](https://www.youtube.com/watch?v=ics_03c3VEA) 학부생들을 위한 **Stable Diffusion and LoRA 활용법 튜토리얼** 제작
 9. [</>](https://github.com/comeeasy/healthcare-ai-contest) [f1score 0.997 달성] [2023 구강이미지 합성데이터 **헬스케어 AI 경진대회**](https://github.com/bab-korea/healthcare-ai-contest)
-10.[</>](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions) [연습 22위] [**도배하자 분류 경진대회**](https://dacon.io/competitions/official/236082/leaderboard) 
+10. [</>](https://github.com/comeeasy/CLIP_for_classificaion_with_descriptions) [연습 22위] [**도배하자 분류 경진대회**](https://dacon.io/competitions/official/236082/leaderboard) 
 
 ### Publications
 1. [Kim, J., Yang, H., & Min, K. (2024). DALS: Diffusion-Based Artistic Landscape Sketch. Mathematics, 12(2), 238.](https://www.mdpi.com/2227-7390/12/2/238)
