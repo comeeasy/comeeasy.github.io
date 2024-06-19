@@ -34,7 +34,8 @@
    - [</>](https://github.com/roll4ward/AnomalyEnvDetector) Develop **anomaly sensor detector** system. (proceeding)
 9. [Study📚] 
     - [📝](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4) **딥러닝 스터디** Study **"Understanding Deep Learning - Simon J.D. Prince"**. [2023-09 ~ Now]  
-    - [📝](https://drive.google.com/drive/folders/1DhdZAR9MAiVLo9imlOX5NGksLPGZW36Z?usp=sharing) **튜터링** Tutoring Python, Linux & etc. 
+    - [📝](https://drive.google.com/drive/folders/1DhdZAR9MAiVLo9imlOX5NGksLPGZW36Z?usp=sharing) **튜터링** Tutoring Python, Linux & etc.
+    - [🏆](https://github.com/soomoongcup/soomoongcup-2024) [1위] 상명대학교 제1회 수뭉컵 (_대학원생이라..비공식_) 
 
 ### Projects
 1. [📰](https://www.newswire.co.kr/newsRead.php?no=962341) [AIFactory상🏆] 2023 프로메테우스 X StartUp Hakcathon - **Virtual makeup service**(코스메테틱)  
