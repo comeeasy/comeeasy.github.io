@@ -14,7 +14,7 @@
 ### Activities
 1. [Undergraduate research assistant🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
    - [</>](https://github.com/comeeasy/R320_VOneNet) [📝](https://joono.notion.site/VOneNet-1b263b7d485840de935fff12072418ff?pvs=4) Research on **protecting adversarial attack** in image domain. 
-   - ⭐[**🚀**]⭐(https://joono.notion.site/R320-ADAS-4a7c26ebab79490ebb4e28bf8a45f62f?pvs=4) <ins>Project **implementing ADAS** (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원</ins>
+   - ⭐[**🚀**](https://joono.notion.site/R320-ADAS-4a7c26ebab79490ebb4e28bf8a45f62f?pvs=4)⭐ <ins>Project **implementing ADAS** (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원</ins>
 3. [M.S researcher🧑‍💻] Computer Graphics and Visual Media Lab (CGVM) 2022-07 ~ Now
    - Conducted variaous experiments on **rotating artistic portraits** using GAN-based model. [publication 3.]
    - Conducted variaous experiments on **synthesizing portrait sketches** using Diffusion model. [publication 2.]
