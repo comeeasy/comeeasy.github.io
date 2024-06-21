@@ -1,4 +1,4 @@
-# HandyMan "잡부"
+# HandyMan
 - 💬이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> `Python`은 그러기 딱 좋은 언어죠..
 
 ### Keywords
@@ -11,7 +11,7 @@
 | B.E. (4.15/4.5)  | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
 | M.S.             | Computer Science  | SangMyung (Seoul) Univ.| February 2025      |
 
-### Activities
+### Activities: [Highlighted: ⭐, code: </>, report: 📝, video: 🎥]
 1. [Undergraduate research assistant🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
    - [</>](https://github.com/comeeasy/R320_VOneNet) [📝](https://joono.notion.site/VOneNet-1b263b7d485840de935fff12072418ff?pvs=4) Research on **protecting adversarial attack** in image domain. 
    - ⭐[**🚀**](https://joono.notion.site/R320-ADAS-4a7c26ebab79490ebb4e28bf8a45f62f?pvs=4)⭐ <ins>Project **implementing ADAS** (Advanced Driver Assistace System). Verified by 국토교통과학기술진흥원</ins>
