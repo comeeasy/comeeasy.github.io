@@ -1,5 +1,5 @@
 # HandyMan
-- 💬이것저것 하고 싶은 것을 해보느라 전문성이 없습니다.<br> `Python`은 그러기 딱 좋은 언어죠..
+- 💬 Chances prefer prepared minds.
 
 ### Keywords
 `Python`, `Linux`, `Computer vision`, `Embedded system`, `Deep learning`, `Image generative AI`
@@ -9,7 +9,7 @@
 | Degree           | Major             | University             | Grad. date    |
 | ---------------- |-----------------  | ---------------------- | ------------------ |
 | B.E. (4.15/4.5)  | Electronics       | SangMyung (Seoul) Univ.| February 2023      |
-| M.S.             | Computer Science  | SangMyung (Seoul) Univ.| February 2025      |
+| M.S.             | Computer Science  | SangMyung (Seoul) Univ.| (예정) February 2025      |
 
 ### Activities: [Highlighted: ⭐, code: </>, report: 📝, video: 🎥]
 1. [Undergraduate research assistant🧑‍💻] Creative Contents Lab (CCLab) 2021-02 ~ 2022-06
