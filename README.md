@@ -32,7 +32,7 @@
 7. [Union club👫] 앞구르기 2024-02 ~ Now
    - [</>]((https://github.com/roll4ward/SmartFarmDataMartAPI)) Implementation **[python API](https://github.com/roll4ward/SmartFarmDataMartAPI) following API documentation** of [스마트팜데이터마트](https://data.smartfarmkorea.net/openApi/openApiUseInfo.do?menuId=M060501)
    - [</>](https://github.com/roll4ward/AnomalyEnvDetector) Develop **anomaly sensor detector** system. (proceeding)
-   - [**🏆🚀**](https://github.com/comeeasy/2024ESWContest_webOS_3009) [webOS 부문 LG CTO상 **우수상**] Smartfarm solution (GPT API + Thread protocol)
+   - ⭐[**🚀**](https://github.com/comeeasy/2024ESWContest_webOS_3009) [webOS 부문 LG CTO상 **우수상🏆**] Smartfarm solution (GPT API + Thread protocol)
 9. [Study📚] 
     - [📝](https://joono.notion.site/Deep-Learning-Study-2bd51fb4767d4b4fa0f563564930d958?pvs=4) **딥러닝 스터디** Study **"Understanding Deep Learning - Simon J.D. Prince"**. [2023-09 ~ Now]  
     - [📝](https://drive.google.com/drive/folders/1DhdZAR9MAiVLo9imlOX5NGksLPGZW36Z?usp=sharing) **튜터링** Tutoring Python, Linux & etc.
